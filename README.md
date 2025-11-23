@@ -1,6 +1,6 @@
 # TPA --– Exercícios de Matrizes em Java
 
-Este repositório contém uma coleção de exercícios em Java que trabalham conceitos de matrizes, como leitura de dados, operações matemáticas e manipulação de formatos. Requisitados pelo professor Marcelo Collado.
+Este repositório contém uma coleção de exercícios em Java que trabalham conceitos de matrizes, como leitura de dados, operações matemáticas e manipulação de formatos. Feitos por Douglas Soares Silva, exercício requisitados pelo professor <strong>Marcelo Collado.</strong>
 
 ---
 
