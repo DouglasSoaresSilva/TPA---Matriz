@@ -14,7 +14,7 @@ O código lê uma matriz 4x4 de inteiros, soma os valores pares e calcula sua m�
 - Usa dois loops for aninhados para percorrer linhas/colunas.
 - Calcula média condicionando divisão por zero.
 - Exibe resultados no final.
-- https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/1-%20Matrizmediapares/4x4.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/1-%20Matrizmediapares/4x4.png">
 
 ---
 
@@ -24,13 +24,13 @@ O exercício está dividido em três partes, cada uma com um tipo de matriz:
 
 ### 2A – Matriz de Letras
 Cria uma matriz de caracteres ('a' a 't') e exibe usando loops for.
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/2-%20Matrizes%20Dados%20Diferentes/MatrizA/MatrizA.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/2-%20Matrizes%20Dados%20Diferentes/MatrizA/MatrizA.png"/>
 ### 2B – Matriz de Inteiros
 Cria matriz preenchida com inteiros e exibe os valores mantendo o formato.
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/2-%20Matrizes%20Dados%20Diferentes/MatrizB/MatrizB.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/2-%20Matrizes%20Dados%20Diferentes/MatrizB/MatrizB.png"/>
 ### 2C – Matriz de Decimais
 Define matriz de `double`, exibindo todos os elementos.
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/2-%20Matrizes%20Dados%20Diferentes/MatrizC/MatrizC.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/2-%20Matrizes%20Dados%20Diferentes/MatrizC/MatrizC.png"/>
 
 Todos utilizam loops aninhados para percorrer e mostrar os valores.  
 
@@ -42,8 +42,8 @@ Todos utilizam loops aninhados para percorrer e mostrar os valores.
 - Soma todos os valores ímpares ao ler.
 - Calcula soma de cada coluna e de cada linha separadamente.
 - Três estruturas de loops para leitura, soma vertical e soma horizontal.
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/3-%20Matrizimpares/Insercaodadosimpares.png
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/3-%20Matrizimpares/Outputcolunaslinhasimpares.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/3-%20Matrizimpares/Insercaodadosimpares.png"/>
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/3-%20Matrizimpares/Outputcolunaslinhasimpares.png"/>
 ---
 
 ## Exercício 4 – Matriz 3x5: Repetidos, Pares e Ímpares
@@ -52,7 +52,7 @@ https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/3-%20Matri
 - Verifica repetidos via estrutura auxiliar (como lista ou array).
 - Conta pares e ímpares conforme lê cada valor.
 - Loops duplos percorrem toda matriz; comparações registram repetições e paridade.
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/4-%20MatrizRepetidos/MatrizRepetidos.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/4-%20MatrizRepetidos/MatrizRepetidos.png"/>
 ---
 
 ## Exercício 5 – Matriz 4x4 de Decimais: Diagonais Principal e Secundária
@@ -61,7 +61,7 @@ https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/4-%20Matri
 - Dois loops para leitura.
 - Um loop para exibir diagonal principal (linha=coluna).
 - Outro para diagonal secundária (coluna=3-linha).
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/5-%20MatrizDiagonal/MatrizDiagonal.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/5-%20MatrizDiagonal/MatrizDiagonal.png"/>
 
 ---
 
@@ -71,12 +71,12 @@ Três exemplos de formatação de matriz com o símbolo `*`.
 
 ### 6A – Matriz completamente preenchida com \*
 Matriz 4x4 preenchida com símbolo, exibida por dois pares de loops.
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20MatrizesFormatos/MatrizFormatoA/FormatoA.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20MatrizesFormatos/MatrizFormatoA/FormatoA.png"/>
 ### 6B – Moldura de \* com centro vazio
 Bordas recebem `*`, interior recebe espaço. Condições nos loops verificam bordas.
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20MatrizesFormatos/MatrizFormatoB/MatrizFormatoB.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20MatrizesFormatos/MatrizFormatoB/MatrizFormatoB.png"/>
 ### 6C – Triângulo formado por \*
-https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20MatrizesFormatos/MatrizFormatoC/FormatoC.png
+<img width="264" height="470" alt="image" src="https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20MatrizesFormatos/MatrizFormatoC/FormatoC.png"/>
 
 Somente as colunas até o índice da linha são preenchidas, demais espaços ficam em branco.
 ---
