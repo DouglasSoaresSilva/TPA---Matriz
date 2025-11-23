@@ -76,8 +76,9 @@ https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20Matri
 Bordas recebem `*`, interior recebe espaço. Condições nos loops verificam bordas.
 https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20MatrizesFormatos/MatrizFormatoB/MatrizFormatoB.png
 ### 6C – Triângulo formado por \*
-Somente as colunas até o índice da linha são preenchidas, demais espaços ficam em branco.
 https://github.com/DouglasSoaresSilva/TPA---Matriz/blob/main/Matrizes/6-%20MatrizesFormatos/MatrizFormatoC/FormatoC.png
+
+Somente as colunas até o índice da linha são preenchidas, demais espaços ficam em branco.
 ---
 
 Cada exercício pode ser acessado nos respectivos diretórios, onde está o código fonte Java que implementa as operações descritas acima.
